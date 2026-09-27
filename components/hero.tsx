@@ -8,6 +8,9 @@ export function Hero() {
         <h1 className="mt-4 max-w-3xl text-balance text-4xl font-semibold leading-tight tracking-tight md:text-6xl">
           Software Testing Workload Planner
         </h1>
+        <p className="mt-4 text-xl font-medium text-primary-foreground/90 md:text-2xl">
+          Software Testing Student Project
+        </p>
         <p className="mt-6 max-w-2xl text-pretty text-lg leading-relaxed text-primary-foreground/80">
           An interactive project that models software testing workload and shows how changing key
           variables can affect estimated testing hours and testing days.
